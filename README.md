@@ -1,11 +1,20 @@
-# Hi, I'm Srikanth Saindla 👋
+<h1 align="center">Hi 👋, I'm Srikanth Saindla</h1>
+<h3 align="center">Full Stack Developer | Backend Engineer | AWS Serverless | Node.js | IoT Platforms 🚀</h3>
 
-### Full Stack Developer | Backend Engineer | AWS Serverless | Node.js | IoT Platforms
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;3.7%2B+Years+building+SaaS+%26+IoT+Platforms;AWS+Serverless+%7C+Node.js+%7C+Next.js;Microservices+%26+Event-Driven+Systems" alt="Typing SVG" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-lake-62.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saindla-srikanth-in)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saindlasrikanth5@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%2083096%2016283-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918309616283)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=srikanthsaindlaDev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-two-lake-62.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/saindla-srikanth-in"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saindlasrikanth5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="tel:+918309616283"><img src="https://img.shields.io/badge/+91%2083096%2016283-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -17,6 +26,7 @@ Full Stack Developer with **3.7+ years of experience** building scalable SaaS an
 - ⚡ Reduced DynamoDB cost by **60%** and cut API latency by **25%**
 - 🧠 Strong in CI/CD, cloud infrastructure, and real-time data processing
 - 🌱 Currently pursuing **AWS Certified Developer – Associate**
+- 💬 Ask me about **Node.js, AWS Serverless & MERN Stack**
 - 🌐 Portfolio: [portfolio-two-lake-62.vercel.app](https://portfolio-two-lake-62.vercel.app/)
 
 ---
@@ -89,9 +99,22 @@ Full Stack Developer with **3.7+ years of experience** building scalable SaaS an
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srikanthsaindlaDev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srikanthsaindlaDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthsaindlaDev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srikanthsaindlaDev&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthsaindlaDev&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srikanthsaindlaDev&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srikanthsaindlaDev&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 ---
 
@@ -101,3 +124,9 @@ Full Stack Developer with **3.7+ years of experience** building scalable SaaS an
 - 📱 **Phone:** +91 83096 16283
 - 🔗 **LinkedIn:** [linkedin.com/in/saindla-srikanth-in](https://www.linkedin.com/in/saindla-srikanth-in)
 - 🌐 **Portfolio:** [portfolio-two-lake-62.vercel.app](https://portfolio-two-lake-62.vercel.app/)
+
+---
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/srikanthsaindlaDev">srikanthsaindlaDev</a> — thanks for visiting!</i>
+</p>
