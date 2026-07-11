@@ -33,20 +33,23 @@ Full Stack Developer with **3.7+ years of experience** building scalable SaaS an
 
 ## 🛠️ Tech Stack
 
-**Cloud & AWS**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
+**☁️ AWS Services & Cloud**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=awslambda&logoColor=white) ![IoT Core](https://img.shields.io/badge/IoT%20Core-232F3E?style=flat&logo=amazonaws&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white) ![SES](https://img.shields.io/badge/SES-DD344C?style=flat&logo=amazonaws&logoColor=white) ![SNS](https://img.shields.io/badge/SNS-E7157B?style=flat&logo=amazonaws&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white) ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
 
-**Backend & APIs**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+**⚙️ Backend & APIs**  
+![JavaScript](https://img.shields.io/badge/JavaScript%20(ES6+)-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socketdotio&logoColor=white) ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4B8BBE?style=flat&logo=thealgorithms&logoColor=white)
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**🚀 DevOps & CI/CD**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+**🗄️ Databases**  
+![DynamoDB](https://img.shields.io/badge/DynamoDB%20(NoSQL)-4053D6?style=flat&logo=amazondynamodb&logoColor=white) ![Timestream](https://img.shields.io/badge/AWS%20Timestream-232F3E?style=flat&logo=amazonaws&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**DevOps & CI/CD**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+**🏛️ Architecture**  
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat&logo=microgenetics&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event--Driven%20Architecture-FF4F8B?style=flat&logo=apachekafka&logoColor=white) ![System Design](https://img.shields.io/badge/System%20Design-1572B6?style=flat&logo=blueprint&logoColor=white) ![Multi-Tenant SaaS](https://img.shields.io/badge/Multi--Tenant%20SaaS-6A1B9A?style=flat&logo=cloudsmith&logoColor=white) ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-004080?style=flat&logo=apachehadoop&logoColor=white)
+
+**🎨 Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -59,6 +62,7 @@ Full Stack Developer with **3.7+ years of experience** building scalable SaaS an
 - Built event-driven microservices with AWS Lambda, SQS & EventBridge handling **5K+ events/day**
 - Optimized DynamoDB schema, reducing cost by **60%** and improving query performance by **40%**
 - Reduced API latency by **25%** (400ms to 300ms) and improved reliability to **99.9% uptime**
+- Designed real-time systems supporting **100+ concurrent device connections** using MQTT & WebSockets
 - Implemented authentication for **1K+ users** with AWS Cognito & IAM
 
 ### Full Stack Developer (Internship) — Elogic Engineering Services Pvt Ltd
@@ -66,6 +70,7 @@ Full Stack Developer with **3.7+ years of experience** building scalable SaaS an
 
 - Developed REST APIs and integrated frontend dashboards using Node.js & Next.js
 - Built IoT monitoring features with real-time data visualization
+- Improved application reliability through debugging and testing in production environments
 
 ---
 
