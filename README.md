@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with **3.7+ years of experience** building scalable SaaS and IoT platforms using **Node.js, Next.js, and AWS Serverless**. I specialize in microservices, event-driven systems, and system design.
+Full Stack Developer with **3.9+ years of experience** building scalable SaaS and IoT platforms using **Node.js, Next.js, and AWS Serverless**. I specialize in microservices, event-driven systems, and system design.
 
 - 🔭 Building scalable multi-tenant IoT & SaaS platforms
 - ⚡ Reduced DynamoDB cost by **60%** and cut API latency by **25%**
