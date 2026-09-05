@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Backend Engineer | AWS Serverless | Node.js | IoT Platforms 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;3.7%2B+Years+building+SaaS+%26+IoT+Platforms;AWS+Serverless+%7C+Node.js+%7C+Next.js;Microservices+%26+Event-Driven+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;3.9%2B+Years+building+SaaS+%26+IoT+Platforms;AWS+Serverless+%7C+Node.js+%7C+Next.js;Microservices+%26+Event-Driven+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
