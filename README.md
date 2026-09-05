@@ -55,8 +55,8 @@ Full Stack Developer with **3.9+ years of experience** building scalable SaaS an
 
 ## 💼 Experience
 
-### Cloud Backend Engineer — Elogic Engineering Services Pvt Ltd
-*Feb 2023 – Present*
+### Backend Engineer — Elogic Engineering Services Pvt Ltd
+*Feb 2023 – Aug 2026*
 
 - Designed a scalable multi-tenant IoT platform processing **10K+ device data points/day**
 - Built event-driven microservices with AWS Lambda, SQS & EventBridge handling **5K+ events/day**
